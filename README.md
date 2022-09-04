@@ -1,2 +1,2 @@
 # heroku_clf_app
-Basic app denonstarating image classification
+Basic app demonstarating image classification
